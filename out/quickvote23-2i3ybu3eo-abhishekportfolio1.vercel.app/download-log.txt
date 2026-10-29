@@ -1,0 +1,126 @@
+🔑 Got authentication token
+
+🔍 Fetching deployment info for: quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app
+   Resolving teams...
+   Trying quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app in personal account...
+✅ Got deployment info
+
+📦 Deployment ID:  quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app
+🌐 Deployment URL: quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app
+📁 Project:        quickvote23
+
+📋 Fetching file tree from API...
+
+✅ Got file tree (13 top-level entries)
+
+📁 Output directory: C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source
+
+🗑️  Clearing previous download...
+
+⬇️  Downloading files...
+   (Use --verbose to see detailed progress)
+
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\(auth)\login\layout.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\(auth)\login\page.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\(auth)\signup\page.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\(auth)\layout.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\auth\callback\route.ts: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\create\page.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\dashboard\page.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\poll\[id]\PollVoting.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\poll\[id]\page.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\error.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\globals.css: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\layout.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\not-found.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\page.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\CreatePollForm.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\EmptyState.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\ErrorState.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\LoadingState.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\Navbar.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\PollCard.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\ResultBar.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\ShareButton.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\Toast.tsx: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\lib\supabase\client.ts: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\lib\supabase\server.ts: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\lib\utils.ts: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\types\index.ts: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\middleware.ts: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\supabase\migrations\20260101000000_quickvote_schema.sql: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\.env.example: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\.eslintrc.json: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\AGENTS.md: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\README.md: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\next-env.d.ts: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\next.config.mjs: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\package-lock.json: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\package.json: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\postcss.config.mjs: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\tailwind.config.ts: Error: Deployment not found
+❌ Failed to download C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\tsconfig.json: Error: Deployment not found
+
+🎉 All files processed successfully!
+
+📊 Running comparison...
+
+📁 Total files: 0
+   ✅ Downloaded: 0
+   ⏭️  Skipped: 0
+   ❌ Failed: 40
+💾 Total size: 0.00 MB
+
+📈 File types breakdown:
+
+🌳 File structure tree:
+
+
+❌ Failed downloads: 40
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\(auth)\login\layout.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\(auth)\login\page.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\(auth)\signup\page.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\(auth)\layout.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\auth\callback\route.ts
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\create\page.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\dashboard\page.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\poll\[id]\PollVoting.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\poll\[id]\page.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\error.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\globals.css
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\layout.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\not-found.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\app\page.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\CreatePollForm.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\EmptyState.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\ErrorState.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\LoadingState.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\Navbar.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\PollCard.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\ResultBar.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\ShareButton.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\components\Toast.tsx
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\lib\supabase\client.ts
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\lib\supabase\server.ts
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\lib\utils.ts
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\types\index.ts
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\src\middleware.ts
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\supabase\migrations\20260101000000_quickvote_schema.sql
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\.env.example
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\.eslintrc.json
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\AGENTS.md
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\README.md
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\next-env.d.ts
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\next.config.mjs
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\package-lock.json
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\package.json
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\postcss.config.mjs
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\tailwind.config.ts
+   C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\source\tsconfig.json
+
+   To retry later: npx tsx src/vercel-deploy-source-downloader.ts --deployment quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app --retry-failed
+
+✨ Download and verification complete!
+📄 Full log saved to: C:\Users\abhishekm\my-vercel-project\out\quickvote23-2i3ybu3eo-abhishekportfolio1.vercel.app\download-log.txt
+   (Use --verbose to see file tree and skipped files)
+
